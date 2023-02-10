@@ -14,20 +14,29 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-###steps to follow
+###`steps to follow`
+
 #step1:
-Download the Repository
+
+`Download the Repository`
+
 #step2:
+
 open BLOG_REACT folder in Editor Open Terminal 
-run >> npm install
+
+run >> `npm install`
+
 to install node modules
 
 #step3:
- run>> npm run start
+
+ run>> `npm run start`
 
 #step4:
+
 open another terminal
-run>> npx json-server --watch data/db.json --port 8000
+
+run>> `npx json-server --watch data/db.json --port 8000`
 
 #Completed
 
